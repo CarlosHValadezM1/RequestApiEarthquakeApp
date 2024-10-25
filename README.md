@@ -6,6 +6,11 @@ Características
 - Consulta en tiempo real a la API de USGS para obtener información sobre terremotos.
 - Tabla que muestra la magnitud, localidad, hora y un enlace para más información sobre cada evento.
 
+Requisitos
+- Java Development Kit (JDK) 8 o superior.
+- Librerías:
+  - org.json (asegúrate de incluir la librería JSON para el manejo de datos).
+
 Uso
 1. Abre la aplicación.
 2. Introduce la fecha inicial y final en formato YYYY-MM-DD.
