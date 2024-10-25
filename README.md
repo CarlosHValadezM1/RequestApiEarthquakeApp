@@ -14,4 +14,5 @@ Uso
 5. Los resultados se mostrarán en una tabla con columnas para magnitud, localidad, hora y un enlace para más detalles.
 
 Ejemplo de uso
+
 ![image](https://github.com/user-attachments/assets/cb0d7c08-b48c-4713-aadf-ce7f9cceb0a0)
